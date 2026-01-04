@@ -16,3 +16,10 @@ day 3
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d958493d-d644-4d6f-894c-a0e0f4b716a7" />
 code
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22b519e7-b275-4a39-a467-55958f2be8c4" />
+DAY 4
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c89a2b92-b772-47c8-aa84-a0f771d37fc0" />
+CODE
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/24e46bf0-aa03-4084-8a66-9d5452446806" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22fc875b-7b60-4c39-a1f9-c093a29b41f9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2c0d82d1-f229-40aa-b935-651745c5e54b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bf53c2c5-dc48-4489-8f68-901f422e11a9" />
