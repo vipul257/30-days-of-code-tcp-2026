@@ -19,6 +19,17 @@ code
 DAY 4
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c89a2b92-b772-47c8-aa84-a0f771d37fc0" />
 CODE
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ba0832ab-88ca-4d35-a2e5-edddfec104c2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/96478326-a8dd-4d73-898f-1cc6e16039cc" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4075f6e5-5d02-450d-8943-b1fcb565ef5f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1870507-5281-4ffd-a083-9d35cf8dfb3e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/152b5340-9f4e-4ee8-bca9-9b8c4fb86f62" />
+
+
+
+
+
+
 day 5
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/24e9e2f5-0ef1-494e-9e9b-64bc83728112" />
 code
