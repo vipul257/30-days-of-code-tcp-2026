@@ -19,6 +19,20 @@ code
 DAY 4
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c89a2b92-b772-47c8-aa84-a0f771d37fc0" />
 CODE
+day 5
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/24e9e2f5-0ef1-494e-9e9b-64bc83728112" />
+code
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/45635a29-8fc7-4571-90ab-83737f71d782" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/67c5e56a-d3bd-419f-a8df-6183140d46f1" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6bb2c28f-52a8-47fa-aa60-28b13502327a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/97766307-d678-49ee-9772-7f30bad3f928" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/43685865-45c0-4ad6-babc-3c8aa9ae3f56" />
+
+
+
+
+
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/24e46bf0-aa03-4084-8a66-9d5452446806" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22fc875b-7b60-4c39-a1f9-c093a29b41f9" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2c0d82d1-f229-40aa-b935-651745c5e54b" />
