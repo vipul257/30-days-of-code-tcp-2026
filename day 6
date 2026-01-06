@@ -10,3 +10,4 @@ int findMinPath(vector<vector<int> > &V, int r, int c) {
 Assume R = V.size() and C = V[0].size().
 
 answer
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2e785cc0-9102-4fda-b268-f9e7c62876f7" />
