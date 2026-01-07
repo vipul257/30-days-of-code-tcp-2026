@@ -39,6 +39,9 @@ code
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/97766307-d678-49ee-9772-7f30bad3f928" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/43685865-45c0-4ad6-babc-3c8aa9ae3f56" />
 
+day 7
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2fa93267-acf6-4e10-81e6-9a385f8f6fdd" />
+
 
 
 
