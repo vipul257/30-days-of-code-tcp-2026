@@ -62,3 +62,5 @@ DAY 11
 DAY 12
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/517c1244-e8f0-4672-adb9-ce965ee3bd18" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c1cc186c-9403-49ff-abf5-b4b450255e08" />
+DAY 13
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a55c9069-005d-4b89-ac14-5d09207bd844" />
