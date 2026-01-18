@@ -72,3 +72,6 @@ DAY 16
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e21f0234-c81b-451a-aaff-4bf4aaeb96ff" />
 DAY 17
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/53e6dfe6-4d96-4e34-9f57-a22eed5763c4" />
+DAY 18
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c8a3f89-8a20-46f7-92a1-c45b4c164c79" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ac010f37-576b-4439-8973-e1a8e6598de5" />
