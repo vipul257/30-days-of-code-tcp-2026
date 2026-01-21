@@ -80,3 +80,5 @@ DAY 19
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7713385e-3a06-4bd2-ab93-f75afbb4327b" />
 DAY 20
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/44bbc39c-d457-4200-85bb-bcc29fadf6a1" />
+DAY 21
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6b61c0de-fb99-41c9-a56a-59bfc0ae7bf9" />
