@@ -86,3 +86,5 @@ DAY 22
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6998e506-41e5-4dac-be61-f6f155843034" />
 DAY 23
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ffba55bb-11b0-4d91-8c5e-ee67c0ca321e" />
+DAY 24
+<img width="1300" height="532" alt="image" src="https://github.com/user-attachments/assets/a62f5246-ab99-452e-8b3a-11282ca46536" />
