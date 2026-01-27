@@ -93,3 +93,6 @@ DAY 25
 DAY 26
 <img width="610" height="508" alt="image" src="https://github.com/user-attachments/assets/d3de8bad-98b3-48a3-88e4-17b87e7ff683" />
 <img width="418" height="201" alt="image" src="https://github.com/user-attachments/assets/eab25160-5b03-40c6-aafd-f606ae52fc77" />
+DAY 27
+<img width="369" height="351" alt="image" src="https://github.com/user-attachments/assets/2918decd-d4a8-488f-98c0-2f8d282a8e8f" />
+<img width="496" height="311" alt="image" src="https://github.com/user-attachments/assets/933c4b74-01c3-453f-9ca9-9ee84d630ec2" />
