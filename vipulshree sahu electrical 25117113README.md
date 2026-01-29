@@ -98,3 +98,5 @@ DAY 27
 <img width="496" height="311" alt="image" src="https://github.com/user-attachments/assets/933c4b74-01c3-453f-9ca9-9ee84d630ec2" />
 DAY 28
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8220ac59-2202-4ef9-838c-46db6b146f28" />
+DAY 29
+<img width="424" height="464" alt="image" src="https://github.com/user-attachments/assets/22396b6d-0ffe-42cb-a887-276f8719c982" />
