@@ -100,3 +100,5 @@ DAY 28
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8220ac59-2202-4ef9-838c-46db6b146f28" />
 DAY 29
 <img width="424" height="464" alt="image" src="https://github.com/user-attachments/assets/22396b6d-0ffe-42cb-a887-276f8719c982" />
+DAY 30
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9344492f-c5d5-4f8e-a5c0-cafb71081426" />
